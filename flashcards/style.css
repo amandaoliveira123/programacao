@@ -31,15 +31,9 @@ body {
 }
 .cartao{
   margin: 1rem 1rem;
-  
+
 }
-<div class="cartao conteudo resposta">
-   <p>O que é JavaSCript?</p>
-  </div>
-  <div class="cartao conteudo resposta">
-    <p>O JavaScript é uma linguagem de programação</p>
-  </div>
-</div>
+
 .cartao{
   margin: 1rem 1rem;
   background-color: aqua;
@@ -47,6 +41,6 @@ body {
   flex-grow: 1;
   flex-basis: calc(33% - 6rem);
 }
-c
+
 
 
